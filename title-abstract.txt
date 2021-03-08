@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Data Visualizations and Interface For Autonomous Robots
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Autonomous navigation requires a wide-range of engineering expertise and a well-developed technological architecture in order to operate. The focus of this project and report is to illustrate the significance of data visualizations and an interactive interface with regards to autonomous navigation in a racing environment. In order to yield the best results in an autonomous navigation race, the users must be able to understand the behavior of the vehicle when training navigation models and during the live race. In order to address these concerns, teams working on autonomous navigation must be able to visualize and interact with the robot. In this project, different algorithms such as A* search and RRT* (Rapidly-exploring random tree) are implemented to create path planning and obstacle avoidance. Visualizations of these respective algorithms and a user interface to send/receive commands will help to enhance model testing, debug unexpected behavior, and improve upon existing autonomous navigation models. Simulations with the most optimal navigation algorithm will also be run to demonstrate the functionality of the interactive interface. Results, implications of the interface, and further improvements will also be discussed.
